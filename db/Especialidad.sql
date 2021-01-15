@@ -1,0 +1,10 @@
+insert into Especialidad (idEspecialidad, nombreEspecialidad) values (1, 'Red');
+insert into Especialidad (idEspecialidad, nombreEspecialidad) values (2, 'Aquamarine');
+insert into Especialidad (idEspecialidad, nombreEspecialidad) values (3, 'Orange');
+insert into Especialidad (idEspecialidad, nombreEspecialidad) values (4, 'Indigo');
+insert into Especialidad (idEspecialidad, nombreEspecialidad) values (5, 'Blue');
+insert into Especialidad (idEspecialidad, nombreEspecialidad) values (6, 'Teal');
+insert into Especialidad (idEspecialidad, nombreEspecialidad) values (7, 'Yellow');
+insert into Especialidad (idEspecialidad, nombreEspecialidad) values (8, 'Pink');
+insert into Especialidad (idEspecialidad, nombreEspecialidad) values (9, 'Crimson');
+insert into Especialidad (idEspecialidad, nombreEspecialidad) values (10, 'Indigo');
